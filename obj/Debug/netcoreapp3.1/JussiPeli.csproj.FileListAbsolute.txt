@@ -1,0 +1,70 @@
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.AssemblyInfoInputs.cache
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.AssemblyInfo.cs
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\JussiPeli.exe
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\Content\kentta1.txt
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\Content\maali.wav
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\Content\norsu.png
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\Content\tahti.png
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\JussiPeli.deps.json
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\JussiPeli.runtimeconfig.json
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\JussiPeli.runtimeconfig.dev.json
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\JussiPeli.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\JussiPeli.pdb
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\Jypeli.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\Jypeli.Physics2d.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.csproj.CopyComplete
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.dll
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.pdb
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.genruntimeconfig.cache
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.csproj.AssemblyReference.cache
+C:\Ohjelmointi1\Harjoittelua\LapsyLintu\LapsyLintu\obj\Debug\netcoreapp3.1\JussiPeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\JussiPeli.exe
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\Content\kentta1.txt
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\Content\maali.wav
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\Content\norsu.png
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\Content\tahti.png
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\JussiPeli.deps.json
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\JussiPeli.runtimeconfig.json
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\JussiPeli.runtimeconfig.dev.json
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\JussiPeli.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\JussiPeli.pdb
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\Jypeli.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\Jypeli.Physics2d.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Omat pelit\Jussipeli\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.csproj.AssemblyReference.cache
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.AssemblyInfoInputs.cache
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.AssemblyInfo.cs
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.csproj.CoreCompileInputs.cache
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.csproj.CopyComplete
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.dll
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.pdb
+C:\Omat pelit\Jussipeli\obj\Debug\netcoreapp3.1\JussiPeli.genruntimeconfig.cache
